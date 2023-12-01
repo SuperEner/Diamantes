@@ -1,0 +1,37 @@
+
+body{
+background-color: #000000;
+}
+h1
+{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.italicoLinha   {
+    font-style: italic;
+}
+
+img:hover {
+    filter: grayscale(100%);
+}
+#espaco{line-height: 0.1;
+
+}
+a{
+    color:#000000;
+    text-decoration:none;
+}
+a:hover{
+    color:rgb(0, 105, 0)
+}
+a[href ="https://youtube.com/@superenergeticoYT?si=zVLgju0mmXD8SevV"]:hover {
+    color: #ff1100;
+}
+a[href ="https://youtube.com/@superenergeticoYT?si=zVLgju0mmXD8SevV"]{
+    color: #0400ff
+}
+header{
+    background-color: #ffffff;
+    font-size:30px;
+    color:#000000;
+    text-align: center;
+    word-spacing:150px;
+}
